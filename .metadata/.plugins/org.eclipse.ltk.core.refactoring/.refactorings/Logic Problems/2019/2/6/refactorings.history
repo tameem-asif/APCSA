@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;sumFunction.java&apos; to &apos;Logic Problems/src/LogicProbs&apos;&#x0A;- Original project: &apos;Logic Problems&apos;&#x0A;- Destination element: &apos;Logic Problems/src/LogicProbs&apos;&#x0A;- Original element: &apos;sumFunction.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;LogicProbs" element1="/src&lt;{sumFunction.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1549635535529" units="1" version="1.0"/>
+</session>
